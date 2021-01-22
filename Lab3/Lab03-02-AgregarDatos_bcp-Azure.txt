@@ -1,0 +1,6 @@
+bcp Curso in DataCurso.csv -S av-bd1.database.windows.net -d Universidad -U AlexanderVillatoro -P Walter20! -q -c -t ","
+bcp Persona in DataPersona.csv -S av-bd1.database.windows.net -d Universidad -U AlexanderVillatoro -P Walter20! -q -c -t ","
+bcp Estudiante in DataEstudiante.csv -S av-bd1.database.windows.net -d Universidad -U AlexanderVillatoro -P Walter20! -q -c -t ","
+bcp Calificacion in DataCalificacion.csv -S av-bd1.database.windows.net -d Universidad -U AlexanderVillatoro -P Walter20! -q -c -t ","
+bcp Catedratico in DataCatedratico.csv -S av-bd1.database.windows.net -d Universidad -U AlexanderVillatoro -P Walter20! -q -c -t ","
+bcp Curso in DataCursov2.csv -S av-bd1.database.windows.net -d Universidad -U AlexanderVillatoro -P Walter20! -q -c -t ","

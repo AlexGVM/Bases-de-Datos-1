@@ -1,0 +1,6 @@
+bcp Curso in DataCurso.csv -S <server> -d <database> -T -q -c -t ","
+bcp Persona in DataPersona.csv -S <server> -d <database> -T -q -c -t ","
+bcp Estudiante in DataEstudiante.csv -S <server> -d <database> -T -q -c -t ","
+bcp Calificacion in DataCalificacion.csv -S <server> -d <database> -T -q -c -t ","
+bcp Catedratico in DataCatedratico.csv -S <server> -d <database> -T -q -c -t ","
+bcp Curso in DataCursov2.csv -S <server> -d <database> -T -q -c -t ","
